@@ -1,0 +1,17 @@
+[
+    {
+        "username": "user1",
+        "password": "$2y$10$w...",
+        "email": "user1@example.com"
+    },
+    {
+        "username": "thet",
+        "password": "$2y$10$QLV.Qs1C6mLK9UKdRVY1fuCYCReJu1utomcAAMitOmuEK7TF1ufmu",
+        "email": "thetnaing8814@gmail.com"
+    },
+    {
+        "username": "ddd",
+        "password": "$2y$10$TUYPcn5yyBOWSudpAF.EzOCqlfqq/bDeNOyiRfhnlvCRPTRufPZH2",
+        "email": "ddd@gmai.com"
+    }
+]
